@@ -1,0 +1,21 @@
+body{
+	background-image: url('http://a2.mzstatic.com/us/r30/Purple122/v4/7b/ef/89/7bef89bd-4b6f-3b8d-11f1-f8ff486ec50c/screen696x696.jpeg');
+	/*background-repeat:repeat-x;*/
+	display: cover;
+	
+
+}
+#link {
+	font-size: 2rem;
+	/*margin-left: 850px;*/
+	color: red;
+	
+
+	
+}
+#btnl{
+	font-size: 2.5rem;
+	background-color: black;
+	color: red;
+
+}

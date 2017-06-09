@@ -1,0 +1,115 @@
+body{
+	background-color: aqua;
+}
+h1{
+	text-align: center;
+	color: red;
+	border: 10px solid green;
+	background-color: black;
+}
+#box1{
+	margin-left: 400px;
+	margin-top: 170px;
+
+	height: 220px;
+	width: 220px;
+	background-color: red;
+	   left:15px;
+    top:15px;
+   
+    -webkit-border-radius:320px 20px 20px;
+    -moz-border-radius:320px 20px 20px;
+    -o-border-radius:320px 20px 20px;
+    border-radius:320px 20px 20px;
+}
+
+
+#box2{
+	margin-right: 380px;
+	margin-top: 170px;
+	/*position: relative;*/
+	height: 210px;
+	width: 215px;
+	background-color: green;
+    right:15px;
+    top:15px;
+    -webkit-border-radius:20px 320px 20px 20px;
+    -moz-border-radius:20px 320px 20px 20px;
+    -o-border-radius:20px 320px 20px 20px;
+    border-radius:20px 320px 20px 20px;
+}
+
+
+
+#box3{
+	margin-right: 380px;
+	margin-bottom: 40px;
+	/*position:relative;*/
+	height: 220px;
+	width: 220px;
+	background-color: yellow;
+	bottom:15px;
+    right:15px;
+    -webkit-border-radius:20px 20px 320px 20px;
+    -moz-border-radius:20px 20px 320px 20px;
+    -o-border-radius:20px 20px 320px 20px;
+    border-radius:20px 20px 320px 20px;
+
+}
+#box4{
+	margin-left: 400px;
+	margin-bottom:40px;
+	/*position:relative;*/
+	height: 220px;
+	width: 220px;
+	background-color: blue;
+	bottom:15px;
+    left:15px;
+    -webkit-border-radius:20px 20px 20px 320px;
+    -moz-border-radius:20px 20px 20px 320px;
+    -o-border-radius:20px 20px 20px 320px;
+    border-radius:20px 20px 20px 320px;
+}
+
+.box{
+	margin: 0 auto;
+	border: 10px solid black;
+	position: absolute;
+	border-radius: 30%;
+	
+	
+
+
+	
+}
+#container{
+	height: 600px;
+	width: 600px;
+	margin: 0 auto;
+	border: 10px solid gray;
+	/*position: relative;*/
+	background-image: url('http://www.publicdomainpictures.net/pictures/30000/velka/wood-texture.jpg');
+	
+
+}
+#score{
+	margin-top: 20px;
+	margin-left: 350px;
+	color: red;
+	text-align: center;
+	font-size: 2rem;
+	height: 100px;
+	width: 550px;
+	background-color: gray;
+	/*margin-left: 10px;*/
+}
+#btng{
+	font-size: 1rem;
+	color:red;
+	background-color: black;
+	height: 50px;
+	width: 170px;
+
+
+
+}
